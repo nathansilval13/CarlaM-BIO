@@ -47,6 +47,7 @@ header a h1 {
   -webkit-backdrop-filter: blur(10px) saturate(160%) contrast(180%);
   color: black; /* Define a cor do texto como preto */
   text-decoration: none; /* Remove o sublinhado do link */
+  font-family: 'Roboto', sans-serif; /* Define a fonte personalizada */
 }
 
 ul {
